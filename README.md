@@ -1,4 +1,4 @@
-# --TruEdge_DropVault--# TruEdge_DropVault™ — v1.0
+# TruEdge_DropVault™ — v1.0
 
 Secure archive of branded drops, presets, themes, and orchestration bundles.
 

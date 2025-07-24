@@ -12,3 +12,4 @@ Secure archive of branded drops, presets, themes, and orchestration bundles.
 | `LauncherShell_Drop_X.ts` | Launcher | Scan-class export |
 | `CupWithHandle_ScoreDrop_C.ts` | Scoring | Pattern engine input |-
 🔗 [Back to TruEdge™ Launchpad Index](https://github.com/TruEdge-systems/TruEdge_Launchpad/blob/main/README.md)
+📎 View the full orchestration diagram: [Orchestration_Map.md](Orchestration_Map.md)
